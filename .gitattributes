@@ -1,0 +1,12 @@
+.git/objects/pack/tmp_pack_sZ1uAK filter=lfs diff=lfs merge=lfs -text
+.git/objects/pack/pack-b75188110dfc6258e1cfb66a75dff3a4f0fbac0e.pack filter=lfs diff=lfs merge=lfs -text
+.git/objects/pack/pack-9a491eb5145b519ad6bb651c0a3f6556f79dd9ba.pack filter=lfs diff=lfs merge=lfs -text
+.git/objects/b1/a5691dd9718d1b93578f2fc9282629d4727821 filter=lfs diff=lfs merge=lfs -text
+.git/objects/0a/75b472f1e4f98cbe3db51e014b41ee3db3d79c filter=lfs diff=lfs merge=lfs -text
+.git/objects/01/f3a1e50b8700127a65b207029f10319b9347e7 filter=lfs diff=lfs merge=lfs -text
+triviaqa-unfiltered/unfiltered-web-train.json filter=lfs diff=lfs merge=lfs -text
+triviaqa-unfiltered/unfiltered-web-dev.json filter=lfs diff=lfs merge=lfs -text
+triviaqa-unfiltered/unfiltered-web-test-without-answers.json filter=lfs diff=lfs merge=lfs -text
+.git/lfs/objects/72/0e/720e25ee87c04444f73ab1cadad9d8d9fd3449c38e739a1a4f4ae2484f2b2009 filter=lfs diff=lfs merge=lfs -text
+.git/lfs/objects/dc/01/dc01fa7636ab9e72448ab7e15510a65c1590c94ca238118f05b149c914cdbc13 filter=lfs diff=lfs merge=lfs -text
+.git/lfs/objects/3c/0f/3c0fca0fb9a7dc46a38bea2b8f4290ed65d35af7ebc0289f81d5326c9a215a27 filter=lfs diff=lfs merge=lfs -text
